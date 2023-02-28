@@ -12,7 +12,7 @@ Install node.js for your VSC, and then incorprate express and uuid as dependenci
 
 A user will open the application to the home page, prompting them to make a new note. Upon clicking that button, they will be taken to the note-taking page. All previous notes that have yet to be completed will be listed in a column on the left-hand side. There will then be a place to put your note title and your note description in the middle of the page. Once finished writing, you can click the save button in the top right of the page to add the note to the saved note column. If you want to view a note in the center of the page, just click on it from the left-hand column. If you complete that note, hit the corresponding trash can button to delete it. If you are viewing a note and want to write a new one, click the plus icon in the top right to start wrtiting again.
 
-Link:
+Link:  https://mysterious-springs-39941.herokuapp.com/
 
 Screenshot:
 
