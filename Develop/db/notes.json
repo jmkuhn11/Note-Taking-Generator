@@ -1,27 +1,17 @@
 [
     {
-        "title": "Test Title",
-        "text": "Test text",
-        "id": "1"
-    },
-    {
-        "title": "First Note",
-        "text": "first note text",
-        "id": "2"
-    },
-    {
-        "title": "Second Note",
-        "text": "second note text",
-        "id": "3"
-    },
-    {
-        "title": "Third Note",
-        "text": "Third Note Text",
-        "id": "33526ac4-bab4-4d11-b180-8e0feee4c4d7"
-    },
-    {
         "title": "Fourth Note",
         "text": "Fourth Note Text",
         "id": "cad1e69d-3802-407d-a4da-603d453a4b98"
+    },
+    {
+        "title": "Final Note",
+        "text": "This proves the application is working",
+        "id": "d9d8fa63-8227-4f1f-a691-f1ef9ff366df"
+    },
+    {
+        "title": "Groceries",
+        "text": "Buy some fruit on the way home",
+        "id": "70115bf6-4e7a-46dc-82e1-68efadf22d41"
     }
 ]
